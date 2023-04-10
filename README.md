@@ -45,6 +45,8 @@ In the `examples` directory, you can find sample code for training a single agen
 └── output
 </code></pre>
 
+<video src="视频链接"></video>
+
 ## Contributing
 
 If you find any bugs or have suggestions for improvements, please submit an issue on GitHub or create a pull request.
