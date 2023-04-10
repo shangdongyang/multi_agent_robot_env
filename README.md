@@ -10,15 +10,16 @@ This project provides a reinforcement learning training environment based on Muj
 $ git clone https://github.com/your_username/multi_agent_robot_env.git
 $ cd multi_agent_robot_env
 </code></pre>
+
 3. Install the dependencies:
-
+<pre><code>
 $ pip install -r requirements.txt
-
+</code></pre>
 
 4. Run the test code:
-
+<pre><code>
 $ python test.py
-
+</code></pre>
 
 ## Usage
 
