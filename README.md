@@ -48,8 +48,9 @@ In the `examples` directory, you can find sample code for training a single agen
 
 <img src="images/go_orderly_1.png" alt="Example GIF" width="100"/> <img src="images/go_orderly_3.png" alt="Example GIF" width="150"/> <img src="images/go_orderly_5.gif" alt="Example GIF" width="200"/>
 
-<img src="images/multi_agent_reach.gif" alt="Example GIF" width="100"/> <img src="images/multi_agent_joint_reach.gif" alt="Example GIF" width="100"/>
-<img src="images/multi_agent_pick.gif" alt="Example GIF" width="100"/> <img src="images/multi_agent_push_and_pick.gif" alt="Example GIF" width="100"/>
+<img src="images/multi_agent_reach.gif" alt="Example GIF" width="200"/> <img src="images/multi_agent_joint_reach.gif" alt="Example GIF" width="200"/>
+
+<img src="images/multi_agent_pick.gif" alt="Example GIF" width="200"/> <img src="images/multi_agent_push_and_pick.gif" alt="Example GIF" width="200"/>
 
 ## Contributing
 
