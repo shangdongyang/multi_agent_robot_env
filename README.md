@@ -6,10 +6,10 @@ This project provides a reinforcement learning training environment based on Muj
 
 1. Install Mujoco by following the instructions on the [Mujoco website](http://www.mujoco.org/).
 2. Clone this repository to your local machine:
-<pre><code>```shell
+<pre><code>
 $ git clone https://github.com/your_username/multi_agent_robot_env.git
 $ cd multi_agent_robot_env
-```</code></pre>
+</code></pre>
 3. Install the dependencies:
 
 $ pip install -r requirements.txt
@@ -25,7 +25,7 @@ $ python test.py
 In the `examples` directory, you can find sample code for training a single agent, multiple agents in cooperative training, and multiple agents in competitive training. You can use these examples as references for training reinforcement learning in this environment.
 
 ## Project Structure
-
+<pre><code>
 ├── README.md
 ├── requirements.txt
 ├── env
@@ -42,7 +42,7 @@ In the `examples` directory, you can find sample code for training a single agen
 └── data
 ├── input
 └── output
-
+</code></pre>
 
 ## Contributing
 
