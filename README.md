@@ -46,6 +46,12 @@ In the `examples` directory, you can find sample code for training a single agen
 </code></pre>
 
 <video src="multi_agent_robot_env/images/multi-agent pick.mov"></video>
+<img src="multi_agent_robot_env/images/multi-agent pick.gif" alt="show" />
+
+作者：码二哥
+链接：https://www.jianshu.com/p/a50079e3c212
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 ## Contributing
 
