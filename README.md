@@ -45,7 +45,7 @@ In the `examples` directory, you can find sample code for training a single agen
 └── output
 </code></pre>
 
-<video src="视频链接"></video>
+<video src="multi_agent_robot_env/images/multi-agent pick.mov"></video>
 
 ## Contributing
 
