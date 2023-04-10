@@ -46,9 +46,7 @@ In the `examples` directory, you can find sample code for training a single agen
 </code></pre>
 
 
-<img src="images/go_orderly_1.png" alt="Example GIF" width="200"/>
-<img src="images/go_orderly_3.png" alt="Example GIF" width="200"/>
-<img src="images/go_orderly_5.gif" alt="Example GIF" width="200"/>
+<img src="images/go_orderly_1.png" alt="Example GIF" width="100"/> <img src="images/go_orderly_3.png" alt="Example GIF" width="150"/> <img src="images/go_orderly_5.gif" alt="Example GIF" width="200"/>
 
 
 ## Contributing
