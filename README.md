@@ -12,21 +12,21 @@ $ cd multi_agent_robot_env
 ```
 
 3. Install the dependencies:
-<pre><code>```bash
+```bash
 $ pip install -r requirements.txt
-</code></pre>
+```
 
 4. Run the test code:
-<pre><code>```bash
+````bash
 $ python test.py
-</code></pre>
+```
 
 ## Usage
 
 In the `examples` directory, you can find sample code for training a single agent, multiple agents in cooperative training, and multiple agents in competitive training. You can use these examples as references for training reinforcement learning in this environment.
 
 ## Project Structure
-<pre><code>```tree
+```tree
 ├── README.md
 ├── requirements.txt
 ├── env
@@ -43,7 +43,7 @@ In the `examples` directory, you can find sample code for training a single agen
 └── data
 ├── input
 └── output
-</code></pre>
+```
 
 
 <img src="images/go_orderly_1.png" alt="Example GIF" width="100"/> <img src="images/go_orderly_3.png" alt="Example GIF" width="150"/> <img src="images/go_orderly_5.gif" alt="Example GIF" width="200"/>
