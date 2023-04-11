@@ -17,7 +17,7 @@ $ pip install -r requirements.txt
 ```
 
 4. Run the test code:
-````bash
+```bash
 $ python test.py
 ```
 
