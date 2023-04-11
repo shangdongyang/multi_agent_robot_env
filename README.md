@@ -26,7 +26,7 @@ $ python test.py
 In the `examples` directory, you can find sample code for training a single agent, multiple agents in cooperative training, and multiple agents in competitive training. You can use these examples as references for training reinforcement learning in this environment.
 
 ## Project Structure
-```tree
+```bash
 ├── README.md
 ├── requirements.txt
 ├── env
