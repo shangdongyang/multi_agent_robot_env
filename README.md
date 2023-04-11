@@ -27,7 +27,7 @@ In the `examples` directory, you can find sample code for training a single agen
 
 ## Project Structure
 
-```bash
+```tree
 ├── README.md
 ├── requirements.txt
 ├── env
